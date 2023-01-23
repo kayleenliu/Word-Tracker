@@ -12,7 +12,7 @@ line, to generate reports using a variety of iterators built into the BST.
 
 To run, use these commands from command line in the directory of the jar file.
 
-Example 1
-java -jar WordTracker.jar "filepath" -PO
-Example 2
+Example 1 <br>
+java -jar WordTracker.jar "filepath" -PO <br>
+Example 2 <br>
 java -jar WordTracker.jar "filepath" -PL -F"filepath"
